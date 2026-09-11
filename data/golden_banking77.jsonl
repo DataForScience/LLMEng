@@ -1,0 +1,77 @@
+{"id":"G000","text":"How can I start using my card?","intent":"activate_my_card","queue":"card","requires_human":false}
+{"id":"G001","text":"I would like an account for my children, how do I go about doing this?","intent":"age_limit","queue":"account","requires_human":false}
+{"id":"G002","text":"is apple pay eligible for top up","intent":"apple_pay_or_google_pay","queue":"card","requires_human":false}
+{"id":"G003","text":"Which ATMs accept this placard ?","intent":"atm_support","queue":"payments","requires_human":false}
+{"id":"G004","text":"Are there limits on auto top-up?","intent":"automatic_top_up","queue":"top_up","requires_human":false}
+{"id":"G005","text":"I didn't get the money I transferred","intent":"balance_not_updated_after_bank_transfer","queue":"transfers","requires_human":false}
+{"id":"G006","text":"I sent a cheque  a few days ago and nothing has happened to my account yet. Can you please check on this for me?","intent":"balance_not_updated_after_cheque_or_cash_deposit","queue":"transfers","requires_human":false}
+{"id":"G007","text":"What's the deal with no cryptocurrency on your app?","intent":"beneficiary_not_allowed","queue":"transfers","requires_human":false}
+{"id":"G008","text":"My recent transfer needs to be cancelled immediately; it was a mistake, please can you cancel it before it goes through?","intent":"cancel_transfer","queue":"transfers","requires_human":false}
+{"id":"G009","text":"How do I order a new card before It expires?","intent":"card_about_to_expire","queue":"card","requires_human":false}
+{"id":"G010","text":"Can I use my card anywere?","intent":"card_acceptance","queue":"card","requires_human":false}
+{"id":"G011","text":"What is the tracking number for the card you sent?","intent":"card_arrival","queue":"card","requires_human":false}
+{"id":"G012","text":"How long will it take for the card to arrive?","intent":"card_delivery_estimate","queue":"card","requires_human":false}
+{"id":"G013","text":"Could you help me reactivate my card? It was previously lost, but I found it this morning in my jacket.","intent":"card_linking","queue":"card","requires_human":false}
+{"id":"G014","text":"How do I find out why my card won't work?","intent":"card_not_working","queue":"card","requires_human":false}
+{"id":"G015","text":"Is using my card free?","intent":"card_payment_fee_charged","queue":"payments","requires_human":false}
+{"id":"G016","text":"I have a strange payment in my statement","intent":"card_payment_not_recognised","queue":"security","requires_human":true}
+{"id":"G017","text":"How can I check the exchange rate applied to my transaction?","intent":"card_payment_wrong_exchange_rate","queue":"payments","requires_human":false}
+{"id":"G018","text":"WTF??? I tried to withdraw some money at a Metro bank on High St. Kensington and without any notice it disappeared in the machine. The bank was already closed so I couldn't do anything. How do I get it back?","intent":"card_swallowed","queue":"card","requires_human":false}
+{"id":"G019","text":"It looks like I was charged a withdrawal fee for going to my ATM. Why is that because I haven't been charged previously for doing so?","intent":"cash_withdrawal_charge","queue":"payments","requires_human":false}
+{"id":"G020","text":"I didn't get cash from an ATM, but the app says I did","intent":"cash_withdrawal_not_recognised","queue":"security","requires_human":true}
+{"id":"G021","text":"Can i change my PIN at the ATM?","intent":"change_pin","queue":"account","requires_human":false}
+{"id":"G022","text":"I'm not certain, but someone may be using my card.","intent":"compromised_card","queue":"security","requires_human":true}
+{"id":"G023","text":"For some reason my contactless won't work for me.","intent":"contactless_not_working","queue":"card","requires_human":false}
+{"id":"G024","text":"I need a card, but I'm in the US at the moment.","intent":"country_support","queue":"account","requires_human":false}
+{"id":"G025","text":"Why has my card payment been declined?","intent":"declined_card_payment","queue":"payments","requires_human":false}
+{"id":"G026","text":"why couldn't I get cash in the ATM?","intent":"declined_cash_withdrawal","queue":"payments","requires_human":false}
+{"id":"G027","text":"why was my transfer declined","intent":"declined_transfer","queue":"transfers","requires_human":false}
+{"id":"G028","text":"someone stole my money","intent":"direct_debit_payment_not_recognised","queue":"security","requires_human":true}
+{"id":"G029","text":"Are you able to explain the restrictions of the disposable cards?","intent":"disposable_card_limits","queue":"card","requires_human":false}
+{"id":"G030","text":"Where can I go to modify my detail?","intent":"edit_personal_details","queue":"account","requires_human":false}
+{"id":"G031","text":"Is there a discount for frequently exchanging currencies?","intent":"exchange_charge","queue":"payments","requires_human":false}
+{"id":"G032","text":"How are you determining your exchange rates?","intent":"exchange_rate","queue":"payments","requires_human":false}
+{"id":"G033","text":"How do I go through the process of currency exchange?","intent":"exchange_via_app","queue":"payments","requires_human":false}
+{"id":"G034","text":"I am seeing an extra fee on my statement what is that for?","intent":"extra_charge_on_statement","queue":"payments","requires_human":false}
+{"id":"G035","text":"Why did my transfer not go through?","intent":"failed_transfer","queue":"transfers","requires_human":false}
+{"id":"G036","text":"Do you offer additional currency options?","intent":"fiat_currency_support","queue":"account","requires_human":false}
+{"id":"G037","text":"Can i get a single use virtual card","intent":"get_disposable_virtual_card","queue":"card","requires_human":false}
+{"id":"G038","text":"Is PIN delivered separately?","intent":"get_physical_card","queue":"card","requires_human":false}
+{"id":"G039","text":"I was looking to buy another card today.","intent":"getting_spare_card","queue":"card","requires_human":false}
+{"id":"G040","text":"Can you help me sign up for a virtual card?","intent":"getting_virtual_card","queue":"card","requires_human":false}
+{"id":"G041","text":"I lost my wallet today with all my credit cards. Will you please block the card and send a replacement?","intent":"lost_or_stolen_card","queue":"security","requires_human":true}
+{"id":"G042","text":"I am not able to use the app since I forgot my phone at the hotel I was staying at.","intent":"lost_or_stolen_phone","queue":"security","requires_human":true}
+{"id":"G043","text":"What are the fees to get a physical card?","intent":"order_physical_card","queue":"card","requires_human":false}
+{"id":"G044","text":"I don't have my access code for the app.","intent":"passcode_forgotten","queue":"account","requires_human":false}
+{"id":"G045","text":"What does it mean by pending payment?","intent":"pending_card_payment","queue":"payments","requires_human":false}
+{"id":"G046","text":"how long til my cash out goes through?","intent":"pending_cash_withdrawal","queue":"payments","requires_human":false}
+{"id":"G047","text":"It doesn't look like the top-up completed.","intent":"pending_top_up","queue":"top_up","requires_human":false}
+{"id":"G048","text":"Someone transferred money to me and it doesn't show","intent":"pending_transfer","queue":"transfers","requires_human":false}
+{"id":"G049","text":"Since my pin is blocked, would you help me unblock it?","intent":"pin_blocked","queue":"account","requires_human":false}
+{"id":"G050","text":"How do i get my salary in the account?","intent":"receiving_money","queue":"transfers","requires_human":false}
+{"id":"G051","text":"Still waiting on a refund.","intent":"refund_not_showing_up","queue":"payments","requires_human":false}
+{"id":"G052","text":"I need a refund?","intent":"request_refund","queue":"payments","requires_human":false}
+{"id":"G053","text":"My card is being declined for a purchase. I bought items before and the card worked. Do you know what the problem is?","intent":"reverted_card_payment","queue":"payments","requires_human":false}
+{"id":"G054","text":"Can I use any currency to add money?","intent":"supported_cards_and_currencies","queue":"card","requires_human":false}
+{"id":"G055","text":"This company sucks! Can you delete my account?","intent":"terminate_account","queue":"account","requires_human":true}
+{"id":"G056","text":"What are the charges for receiving money?","intent":"top_up_by_bank_transfer_charge","queue":"top_up","requires_human":false}
+{"id":"G057","text":"How much is the charge to top up my card?","intent":"top_up_by_card_charge","queue":"top_up","requires_human":false}
+{"id":"G058","text":"I want to top up using cash, where can I do that?","intent":"top_up_by_cash_or_cheque","queue":"top_up","requires_human":false}
+{"id":"G059","text":"My top-up isn't working.","intent":"top_up_failed","queue":"top_up","requires_human":false}
+{"id":"G060","text":"How can I tell what the limit is to top-ups?","intent":"top_up_limits","queue":"top_up","requires_human":false}
+{"id":"G061","text":"For what reason would a top up be reverted and returned to my account?","intent":"top_up_reverted","queue":"top_up","requires_human":false}
+{"id":"G062","text":"I tried to top up using my card, but now the money just disappeared!","intent":"topping_up_by_card","queue":"top_up","requires_human":false}
+{"id":"G063","text":"Why was I chaged twice for the same thing?","intent":"transaction_charged_twice","queue":"payments","requires_human":false}
+{"id":"G064","text":"I purchased some makeup through a site in China, and I was under the impression that when I make transfers there is no fee.  Why am I seeing this fee now?  I am not happy about this at all.","intent":"transfer_fee_charged","queue":"transfers","requires_human":false}
+{"id":"G065","text":"What methods can I use to add money to my account?","intent":"transfer_into_account","queue":"transfers","requires_human":false}
+{"id":"G066","text":"The receipient doesn't see my money transfer.","intent":"transfer_not_received_by_recipient","queue":"transfers","requires_human":false}
+{"id":"G067","text":"When should I expect to see my transfer hit my account?","intent":"transfer_timing","queue":"transfers","requires_human":false}
+{"id":"G068","text":"I can't prove my identity.","intent":"unable_to_verify_identity","queue":"account","requires_human":false}
+{"id":"G069","text":"What steps do I take to verify my identity?","intent":"verify_my_identity","queue":"account","requires_human":false}
+{"id":"G070","text":"Why do you need all this information about my Source of Funds?","intent":"verify_source_of_funds","queue":"account","requires_human":true}
+{"id":"G071","text":"How do I go forth verifying my top-up card?","intent":"verify_top_up","queue":"top_up","requires_human":false}
+{"id":"G072","text":"My disposable virtual card is broken.","intent":"virtual_card_not_working","queue":"card","requires_human":false}
+{"id":"G073","text":"are both visa and mastercard available to me?","intent":"visa_or_mastercard","queue":"card","requires_human":false}
+{"id":"G074","text":"Why do I have to give you all of my identification details?","intent":"why_verify_identity","queue":"account","requires_human":false}
+{"id":"G075","text":"Why did I only get $20 when I tried to get $100","intent":"wrong_amount_of_cash_received","queue":"payments","requires_human":false}
+{"id":"G076","text":"I need the right foreign money, at the right rate, at ATMs, when I go abroad.","intent":"wrong_exchange_rate_for_cash_withdrawal","queue":"payments","requires_human":false}

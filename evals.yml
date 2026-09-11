@@ -1,0 +1,23 @@
+# Drop into .github/workflows/ to gate every prompt change.
+name: llm-regression-suite
+
+on:
+  pull_request:
+    paths:
+      - "prompts/**"
+      - "run_evals.py"
+      - "data/golden_banking77.jsonl"
+      - "data/banking77_taxonomy.json"
+
+jobs:
+  evals:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install openai pydantic
+      - run: python run_evals.py --min-queue-accuracy 0.85 --min-intent-accuracy 0.60
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}

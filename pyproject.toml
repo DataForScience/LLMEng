@@ -1,11 +1,16 @@
 [project]
-name = "template"
+name = "llmeng"
 version = "0.1.0"
 requires-python = ">=3.12"
 dependencies = [
-    "matplotlib",
-    "numpy",
-    "pandas",
-    "watermark",
+    "matplotlib>=3.8",
+    "numpy>=1.26",
+    "pandas>=2.0",
+    "watermark>=2.4",
     "jupyter",
+    "openai>=1.90",
+    "anthropic>=0.40",
+    "pydantic>=2.7",
+    "scipy>=1.11",
+    "tqdm>=4.66",
 ]

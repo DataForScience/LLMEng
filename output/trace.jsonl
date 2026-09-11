@@ -1,0 +1,94 @@
+{"kind": "llm_call", "stage": "triage", "model": "gpt-4.1-mini", "tokens_in": 53, "tokens_out": 1, "latency_s": 1.68, "cost_usd": 2.3e-05, "run_id": "59c4029e", "timestamp": 1789133821.621462}
+{"kind": "llm_call", "stage": "triage", "model": "gpt-4.1-mini", "tokens_in": 64, "tokens_out": 1, "latency_s": 0.499, "cost_usd": 2.7e-05, "run_id": "59c4029e", "timestamp": 1789133822.1223118}
+{"kind": "llm_call", "stage": "triage", "model": "gpt-4.1-mini", "tokens_in": 47, "tokens_out": 1, "latency_s": 0.519, "cost_usd": 2e-05, "run_id": "59c4029e", "timestamp": 1789133822.64378}
+{"kind": "llm_call", "stage": "triage", "model": "gpt-4.1-mini", "tokens_in": 48, "tokens_out": 1, "latency_s": 2.141, "cost_usd": 2.1e-05, "run_id": "59c4029e", "timestamp": 1789133824.787306}
+{"kind": "llm_call", "stage": "triage", "model": "gpt-4.1-mini", "tokens_in": 48, "tokens_out": 2, "latency_s": 0.684, "cost_usd": 2.2e-05, "run_id": "59c4029e", "timestamp": 1789133825.4726489}
+{"kind": "llm_call", "stage": "triage", "model": "gpt-4.1-mini", "tokens_in": 56, "tokens_out": 1, "latency_s": 0.94, "cost_usd": 2.4e-05, "run_id": "59c4029e", "timestamp": 1789133826.413654}
+{"kind": "llm_call", "stage": "triage", "model": "gpt-4.1-mini", "tokens_in": 49, "tokens_out": 1, "latency_s": 0.848, "cost_usd": 2.1e-05, "run_id": "59c4029e", "timestamp": 1789133827.263254}
+{"kind": "llm_call", "stage": "triage", "model": "gpt-4.1-mini", "tokens_in": 52, "tokens_out": 1, "latency_s": 0.697, "cost_usd": 2.2e-05, "run_id": "59c4029e", "timestamp": 1789133827.961463}
+{"kind": "llm_call", "stage": "triage", "model": "gpt-4.1-mini", "tokens_in": 50, "tokens_out": 2, "latency_s": 0.918, "cost_usd": 2.3e-05, "run_id": "59c4029e", "timestamp": 1789133828.8822012}
+{"kind": "llm_call", "stage": "triage", "model": "gpt-4.1-mini", "tokens_in": 60, "tokens_out": 1, "latency_s": 1.392, "cost_usd": 2.6e-05, "run_id": "59c4029e", "timestamp": 1789133830.274924}
+{"kind": "llm_call", "stage": "triage", "model": "gpt-4.1-mini", "tokens_in": 56, "tokens_out": 1, "latency_s": 0.896, "cost_usd": 2.4e-05, "run_id": "59c4029e", "timestamp": 1789133831.171461}
+{"kind": "llm_call", "stage": "triage", "model": "gpt-4.1-mini", "tokens_in": 49, "tokens_out": 1, "latency_s": 1.178, "cost_usd": 2.1e-05, "run_id": "59c4029e", "timestamp": 1789133832.3520021}
+{"kind": "llm_call", "stage": "triage", "model": "gpt-4.1-mini", "tokens_in": 71, "tokens_out": 2, "latency_s": 5.071, "cost_usd": 3.2e-05, "run_id": "59c4029e", "timestamp": 1789133837.423906}
+{"kind": "llm_call", "stage": "triage", "model": "gpt-4.1-mini", "tokens_in": 50, "tokens_out": 1, "latency_s": 0.609, "cost_usd": 2.2e-05, "run_id": "59c4029e", "timestamp": 1789133838.034712}
+{"kind": "llm_call", "stage": "triage", "model": "gpt-4.1-mini", "tokens_in": 49, "tokens_out": 1, "latency_s": 0.624, "cost_usd": 2.1e-05, "run_id": "59c4029e", "timestamp": 1789133838.661665}
+{"kind": "llm_call", "stage": "report", "model": "gpt-4.1-mini", "tokens_in": 46, "tokens_out": 23, "latency_s": 0.847, "cost_usd": 5.5e-05, "run_id": "59c4029e", "timestamp": 1789133839.5109131}
+{"kind": "llm_call", "stage": "triage_cached", "model": "gpt-4.1-mini", "tokens_in": 53, "tokens_out": 1, "latency_s": 0.876, "cost_usd": 2.3e-05, "run_id": "59c4029e", "timestamp": 1789133840.919265}
+{"kind": "llm_call", "stage": "triage_cached", "model": "gpt-4.1-mini", "tokens_in": 64, "tokens_out": 1, "latency_s": 0.559, "cost_usd": 2.7e-05, "run_id": "59c4029e", "timestamp": 1789133841.478957}
+{"kind": "llm_call", "stage": "triage_cached", "model": "gpt-4.1-mini", "tokens_in": 47, "tokens_out": 1, "latency_s": 1.266, "cost_usd": 2e-05, "run_id": "59c4029e", "timestamp": 1789133842.746633}
+{"kind": "llm_call", "stage": "triage_cached", "model": "gpt-4.1-mini", "tokens_in": 48, "tokens_out": 1, "latency_s": 0.569, "cost_usd": 2.1e-05, "run_id": "59c4029e", "timestamp": 1789133843.316482}
+{"kind": "llm_call", "stage": "triage_cached", "model": "gpt-4.1-mini", "tokens_in": 48, "tokens_out": 2, "latency_s": 0.825, "cost_usd": 2.2e-05, "run_id": "59c4029e", "timestamp": 1789133844.1426198}
+{"kind": "llm_call", "stage": "triage_cached", "model": "gpt-4.1-mini", "tokens_in": 56, "tokens_out": 1, "latency_s": 0.489, "cost_usd": 2.4e-05, "run_id": "59c4029e", "timestamp": 1789133844.6329222}
+{"kind": "llm_call", "stage": "triage_cached", "model": "gpt-4.1-mini", "tokens_in": 49, "tokens_out": 1, "latency_s": 0.673, "cost_usd": 2.1e-05, "run_id": "59c4029e", "timestamp": 1789133845.307463}
+{"kind": "llm_call", "stage": "triage_cached", "model": "gpt-4.1-mini", "tokens_in": 52, "tokens_out": 1, "latency_s": 0.472, "cost_usd": 2.2e-05, "run_id": "59c4029e", "timestamp": 1789133845.779924}
+{"kind": "llm_call", "stage": "triage_cached", "model": "gpt-4.1-mini", "tokens_in": 50, "tokens_out": 2, "latency_s": 0.711, "cost_usd": 2.3e-05, "run_id": "59c4029e", "timestamp": 1789133846.494188}
+{"kind": "llm_call", "stage": "triage_cached", "model": "gpt-4.1-mini", "tokens_in": 60, "tokens_out": 1, "latency_s": 0.514, "cost_usd": 2.6e-05, "run_id": "59c4029e", "timestamp": 1789133847.009077}
+{"kind": "llm_call", "stage": "triage_cached", "model": "gpt-4.1-mini", "tokens_in": 56, "tokens_out": 1, "latency_s": 3.666, "cost_usd": 2.4e-05, "run_id": "59c4029e", "timestamp": 1789133850.676919}
+{"kind": "llm_call", "stage": "triage_cached", "model": "gpt-4.1-mini", "tokens_in": 49, "tokens_out": 1, "latency_s": 1.245, "cost_usd": 2.1e-05, "run_id": "59c4029e", "timestamp": 1789133851.924719}
+{"kind": "llm_call", "stage": "triage_cached", "model": "gpt-4.1-mini", "tokens_in": 71, "tokens_out": 2, "latency_s": 0.57, "cost_usd": 3.2e-05, "run_id": "59c4029e", "timestamp": 1789133852.496324}
+{"kind": "llm_call", "stage": "triage_cached", "model": "gpt-4.1-mini", "tokens_in": 50, "tokens_out": 1, "latency_s": 0.558, "cost_usd": 2.2e-05, "run_id": "59c4029e", "timestamp": 1789133853.054782}
+{"kind": "llm_call", "stage": "triage_cached", "model": "gpt-4.1-mini", "tokens_in": 49, "tokens_out": 1, "latency_s": 0.593, "cost_usd": 2.1e-05, "run_id": "59c4029e", "timestamp": 1789133853.6485498}
+{"kind": "cache_hit", "stage": "triage_cached", "model": "gpt-4.1-mini", "cost_usd": 0.0, "latency_s": 0.0, "run_id": "59c4029e", "timestamp": 1789133853.649226}
+{"kind": "cache_hit", "stage": "triage_cached", "model": "gpt-4.1-mini", "cost_usd": 0.0, "latency_s": 0.0, "run_id": "59c4029e", "timestamp": 1789133853.6495519}
+{"kind": "cache_hit", "stage": "triage_cached", "model": "gpt-4.1-mini", "cost_usd": 0.0, "latency_s": 0.0, "run_id": "59c4029e", "timestamp": 1789133853.649973}
+{"kind": "cache_hit", "stage": "triage_cached", "model": "gpt-4.1-mini", "cost_usd": 0.0, "latency_s": 0.0, "run_id": "59c4029e", "timestamp": 1789133853.650304}
+{"kind": "cache_hit", "stage": "triage_cached", "model": "gpt-4.1-mini", "cost_usd": 0.0, "latency_s": 0.0, "run_id": "59c4029e", "timestamp": 1789133853.650475}
+{"kind": "cache_hit", "stage": "triage_cached", "model": "gpt-4.1-mini", "cost_usd": 0.0, "latency_s": 0.0, "run_id": "59c4029e", "timestamp": 1789133853.650601}
+{"kind": "cache_hit", "stage": "triage_cached", "model": "gpt-4.1-mini", "cost_usd": 0.0, "latency_s": 0.0, "run_id": "59c4029e", "timestamp": 1789133853.650712}
+{"kind": "cache_hit", "stage": "triage_cached", "model": "gpt-4.1-mini", "cost_usd": 0.0, "latency_s": 0.0, "run_id": "59c4029e", "timestamp": 1789133853.6508281}
+{"kind": "cache_hit", "stage": "triage_cached", "model": "gpt-4.1-mini", "cost_usd": 0.0, "latency_s": 0.0, "run_id": "59c4029e", "timestamp": 1789133853.650948}
+{"kind": "cache_hit", "stage": "triage_cached", "model": "gpt-4.1-mini", "cost_usd": 0.0, "latency_s": 0.0, "run_id": "59c4029e", "timestamp": 1789133853.651074}
+{"kind": "cache_hit", "stage": "triage_cached", "model": "gpt-4.1-mini", "cost_usd": 0.0, "latency_s": 0.0, "run_id": "59c4029e", "timestamp": 1789133853.651169}
+{"kind": "cache_hit", "stage": "triage_cached", "model": "gpt-4.1-mini", "cost_usd": 0.0, "latency_s": 0.0, "run_id": "59c4029e", "timestamp": 1789133853.651295}
+{"kind": "cache_hit", "stage": "triage_cached", "model": "gpt-4.1-mini", "cost_usd": 0.0, "latency_s": 0.0, "run_id": "59c4029e", "timestamp": 1789133853.651384}
+{"kind": "cache_hit", "stage": "triage_cached", "model": "gpt-4.1-mini", "cost_usd": 0.0, "latency_s": 0.0, "run_id": "59c4029e", "timestamp": 1789133853.6516511}
+{"kind": "cache_hit", "stage": "triage_cached", "model": "gpt-4.1-mini", "cost_usd": 0.0, "latency_s": 0.0, "run_id": "59c4029e", "timestamp": 1789133853.651901}
+{"kind": "llm_call", "stage": "primary", "model": "gpt-4.1-mini", "tokens_in": 13, "tokens_out": 1, "latency_s": 0.849, "cost_usd": 7e-06, "run_id": "59c4029e", "timestamp": 1789133854.5267892}
+{"kind": "llm_call", "stage": "triage", "model": "gpt-4.1-mini", "tokens_in": 53, "tokens_out": 1, "latency_s": 1.66, "cost_usd": 2.3e-05, "run_id": "e1e62da3", "timestamp": 1789134417.739039}
+{"kind": "llm_call", "stage": "triage", "model": "gpt-4.1-mini", "tokens_in": 64, "tokens_out": 1, "latency_s": 2.816, "cost_usd": 2.7e-05, "run_id": "e1e62da3", "timestamp": 1789134420.557896}
+{"kind": "llm_call", "stage": "triage", "model": "gpt-4.1-mini", "tokens_in": 47, "tokens_out": 1, "latency_s": 0.635, "cost_usd": 2e-05, "run_id": "e1e62da3", "timestamp": 1789134421.193939}
+{"kind": "llm_call", "stage": "triage", "model": "gpt-4.1-mini", "tokens_in": 48, "tokens_out": 1, "latency_s": 0.655, "cost_usd": 2.1e-05, "run_id": "e1e62da3", "timestamp": 1789134421.850673}
+{"kind": "llm_call", "stage": "triage", "model": "gpt-4.1-mini", "tokens_in": 48, "tokens_out": 2, "latency_s": 0.574, "cost_usd": 2.2e-05, "run_id": "e1e62da3", "timestamp": 1789134422.425295}
+{"kind": "llm_call", "stage": "triage", "model": "gpt-4.1-mini", "tokens_in": 56, "tokens_out": 1, "latency_s": 0.578, "cost_usd": 2.4e-05, "run_id": "e1e62da3", "timestamp": 1789134423.004166}
+{"kind": "llm_call", "stage": "triage", "model": "gpt-4.1-mini", "tokens_in": 49, "tokens_out": 1, "latency_s": 0.456, "cost_usd": 2.1e-05, "run_id": "e1e62da3", "timestamp": 1789134423.4615738}
+{"kind": "llm_call", "stage": "triage", "model": "gpt-4.1-mini", "tokens_in": 52, "tokens_out": 1, "latency_s": 0.54, "cost_usd": 2.2e-05, "run_id": "e1e62da3", "timestamp": 1789134424.002833}
+{"kind": "llm_call", "stage": "triage", "model": "gpt-4.1-mini", "tokens_in": 50, "tokens_out": 2, "latency_s": 1.339, "cost_usd": 2.3e-05, "run_id": "e1e62da3", "timestamp": 1789134425.342539}
+{"kind": "llm_call", "stage": "triage", "model": "gpt-4.1-mini", "tokens_in": 60, "tokens_out": 1, "latency_s": 0.696, "cost_usd": 2.6e-05, "run_id": "e1e62da3", "timestamp": 1789134426.039926}
+{"kind": "llm_call", "stage": "triage", "model": "gpt-4.1-mini", "tokens_in": 56, "tokens_out": 1, "latency_s": 0.956, "cost_usd": 2.4e-05, "run_id": "e1e62da3", "timestamp": 1789134426.9971242}
+{"kind": "llm_call", "stage": "triage", "model": "gpt-4.1-mini", "tokens_in": 49, "tokens_out": 1, "latency_s": 0.818, "cost_usd": 2.1e-05, "run_id": "e1e62da3", "timestamp": 1789134427.815747}
+{"kind": "llm_call", "stage": "triage", "model": "gpt-4.1-mini", "tokens_in": 71, "tokens_out": 2, "latency_s": 0.535, "cost_usd": 3.2e-05, "run_id": "e1e62da3", "timestamp": 1789134428.351088}
+{"kind": "llm_call", "stage": "triage", "model": "gpt-4.1-mini", "tokens_in": 50, "tokens_out": 1, "latency_s": 0.697, "cost_usd": 2.2e-05, "run_id": "e1e62da3", "timestamp": 1789134429.048526}
+{"kind": "llm_call", "stage": "triage", "model": "gpt-4.1-mini", "tokens_in": 49, "tokens_out": 1, "latency_s": 0.557, "cost_usd": 2.1e-05, "run_id": "e1e62da3", "timestamp": 1789134429.606452}
+{"kind": "llm_call", "stage": "report", "model": "gpt-4.1-mini", "tokens_in": 46, "tokens_out": 23, "latency_s": 0.858, "cost_usd": 5.5e-05, "run_id": "e1e62da3", "timestamp": 1789134430.4656792}
+{"kind": "cache_hit", "stage": "triage_cached", "model": "gpt-4.1-mini", "cost_usd": 0.0, "latency_s": 0.0, "run_id": "e1e62da3", "timestamp": 1789134430.985098}
+{"kind": "cache_hit", "stage": "triage_cached", "model": "gpt-4.1-mini", "cost_usd": 0.0, "latency_s": 0.0, "run_id": "e1e62da3", "timestamp": 1789134430.9863622}
+{"kind": "cache_hit", "stage": "triage_cached", "model": "gpt-4.1-mini", "cost_usd": 0.0, "latency_s": 0.0, "run_id": "e1e62da3", "timestamp": 1789134430.9868858}
+{"kind": "cache_hit", "stage": "triage_cached", "model": "gpt-4.1-mini", "cost_usd": 0.0, "latency_s": 0.0, "run_id": "e1e62da3", "timestamp": 1789134430.9872699}
+{"kind": "cache_hit", "stage": "triage_cached", "model": "gpt-4.1-mini", "cost_usd": 0.0, "latency_s": 0.0, "run_id": "e1e62da3", "timestamp": 1789134430.987665}
+{"kind": "cache_hit", "stage": "triage_cached", "model": "gpt-4.1-mini", "cost_usd": 0.0, "latency_s": 0.0, "run_id": "e1e62da3", "timestamp": 1789134430.988097}
+{"kind": "cache_hit", "stage": "triage_cached", "model": "gpt-4.1-mini", "cost_usd": 0.0, "latency_s": 0.0, "run_id": "e1e62da3", "timestamp": 1789134430.988516}
+{"kind": "cache_hit", "stage": "triage_cached", "model": "gpt-4.1-mini", "cost_usd": 0.0, "latency_s": 0.0, "run_id": "e1e62da3", "timestamp": 1789134430.988773}
+{"kind": "cache_hit", "stage": "triage_cached", "model": "gpt-4.1-mini", "cost_usd": 0.0, "latency_s": 0.0, "run_id": "e1e62da3", "timestamp": 1789134430.98909}
+{"kind": "cache_hit", "stage": "triage_cached", "model": "gpt-4.1-mini", "cost_usd": 0.0, "latency_s": 0.0, "run_id": "e1e62da3", "timestamp": 1789134430.9893591}
+{"kind": "cache_hit", "stage": "triage_cached", "model": "gpt-4.1-mini", "cost_usd": 0.0, "latency_s": 0.0, "run_id": "e1e62da3", "timestamp": 1789134430.989513}
+{"kind": "cache_hit", "stage": "triage_cached", "model": "gpt-4.1-mini", "cost_usd": 0.0, "latency_s": 0.0, "run_id": "e1e62da3", "timestamp": 1789134430.989714}
+{"kind": "cache_hit", "stage": "triage_cached", "model": "gpt-4.1-mini", "cost_usd": 0.0, "latency_s": 0.0, "run_id": "e1e62da3", "timestamp": 1789134430.9898949}
+{"kind": "cache_hit", "stage": "triage_cached", "model": "gpt-4.1-mini", "cost_usd": 0.0, "latency_s": 0.0, "run_id": "e1e62da3", "timestamp": 1789134430.99011}
+{"kind": "cache_hit", "stage": "triage_cached", "model": "gpt-4.1-mini", "cost_usd": 0.0, "latency_s": 0.0, "run_id": "e1e62da3", "timestamp": 1789134430.990311}
+{"kind": "cache_hit", "stage": "triage_cached", "model": "gpt-4.1-mini", "cost_usd": 0.0, "latency_s": 0.0, "run_id": "e1e62da3", "timestamp": 1789134430.990438}
+{"kind": "cache_hit", "stage": "triage_cached", "model": "gpt-4.1-mini", "cost_usd": 0.0, "latency_s": 0.0, "run_id": "e1e62da3", "timestamp": 1789134430.99052}
+{"kind": "cache_hit", "stage": "triage_cached", "model": "gpt-4.1-mini", "cost_usd": 0.0, "latency_s": 0.0, "run_id": "e1e62da3", "timestamp": 1789134430.990599}
+{"kind": "cache_hit", "stage": "triage_cached", "model": "gpt-4.1-mini", "cost_usd": 0.0, "latency_s": 0.0, "run_id": "e1e62da3", "timestamp": 1789134430.9906769}
+{"kind": "cache_hit", "stage": "triage_cached", "model": "gpt-4.1-mini", "cost_usd": 0.0, "latency_s": 0.0, "run_id": "e1e62da3", "timestamp": 1789134430.9907541}
+{"kind": "cache_hit", "stage": "triage_cached", "model": "gpt-4.1-mini", "cost_usd": 0.0, "latency_s": 0.0, "run_id": "e1e62da3", "timestamp": 1789134430.9908311}
+{"kind": "cache_hit", "stage": "triage_cached", "model": "gpt-4.1-mini", "cost_usd": 0.0, "latency_s": 0.0, "run_id": "e1e62da3", "timestamp": 1789134430.990907}
+{"kind": "cache_hit", "stage": "triage_cached", "model": "gpt-4.1-mini", "cost_usd": 0.0, "latency_s": 0.0, "run_id": "e1e62da3", "timestamp": 1789134430.990983}
+{"kind": "cache_hit", "stage": "triage_cached", "model": "gpt-4.1-mini", "cost_usd": 0.0, "latency_s": 0.0, "run_id": "e1e62da3", "timestamp": 1789134430.99106}
+{"kind": "cache_hit", "stage": "triage_cached", "model": "gpt-4.1-mini", "cost_usd": 0.0, "latency_s": 0.0, "run_id": "e1e62da3", "timestamp": 1789134430.991136}
+{"kind": "cache_hit", "stage": "triage_cached", "model": "gpt-4.1-mini", "cost_usd": 0.0, "latency_s": 0.0, "run_id": "e1e62da3", "timestamp": 1789134430.991209}
+{"kind": "cache_hit", "stage": "triage_cached", "model": "gpt-4.1-mini", "cost_usd": 0.0, "latency_s": 0.0, "run_id": "e1e62da3", "timestamp": 1789134430.991283}
+{"kind": "cache_hit", "stage": "triage_cached", "model": "gpt-4.1-mini", "cost_usd": 0.0, "latency_s": 0.0, "run_id": "e1e62da3", "timestamp": 1789134430.991359}
+{"kind": "cache_hit", "stage": "triage_cached", "model": "gpt-4.1-mini", "cost_usd": 0.0, "latency_s": 0.0, "run_id": "e1e62da3", "timestamp": 1789134430.9914792}
+{"kind": "cache_hit", "stage": "triage_cached", "model": "gpt-4.1-mini", "cost_usd": 0.0, "latency_s": 0.0, "run_id": "e1e62da3", "timestamp": 1789134430.991553}
+{"kind": "llm_call", "stage": "primary", "model": "gpt-4.1-mini", "tokens_in": 13, "tokens_out": 1, "latency_s": 2.907, "cost_usd": 7e-06, "run_id": "e1e62da3", "timestamp": 1789134433.910489}
